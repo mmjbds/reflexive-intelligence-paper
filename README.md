@@ -2,8 +2,8 @@
 
 **Author:** Mian Zhang | Independent Researcher  
 **Date:** April 12, 2026  
-**arXiv Submission:** #7470174 (cs.AI)  
-**Status:** Submitted, pending review
+**DOI:** [10.5281/zenodo.19557261](https://zenodo.org/records/19557261)  
+**Status:** Published (Zenodo Open Access)
 
 ## Abstract
 
@@ -11,7 +11,8 @@ We introduce **Reflexive Intelligence** — the capacity for AI systems to make 
 
 ## Files
 
-- `paper1_reflexive_intelligence.tex` — LaTeX source (arXiv format)
+- `paper1_reflexive_intelligence.pdf` — Full paper (PDF)
+- `paper1_reflexive_intelligence.tex` — LaTeX source
 - `paper1_reflexive_intelligence.md` — Markdown source
 
 ## Citation
@@ -20,7 +21,8 @@ We introduce **Reflexive Intelligence** — the capacity for AI systems to make 
 @article{zhang2026reflexive,
   title={Reflexive Intelligence: Decision-Making in Observer-Participant Environments},
   author={Zhang, Mian},
-  journal={arXiv preprint},
+  journal={Zenodo},
+  doi={10.5281/zenodo.19557261},
   year={2026}
 }
 ```

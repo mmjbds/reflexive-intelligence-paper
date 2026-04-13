@@ -1,10 +1,10 @@
 # Reflexive Intelligence: Decision-Making in Observer-Participant Environments
 
-> **Draft V3.0** | 2026-04-12 | Target: arXiv preprint
+> **V1.0** | 2026-04-12 | Published: Zenodo (DOI: 10.5281/zenodo.19557261)
 > Author: Mian Zhang¹
 > ¹ Independent Researcher
-> Contact: zhangmian061@arxiv.org
-> Status: DRAFT
+> Contact: zhangmian061@gmail.com
+> Status: PUBLISHED
 
 ---
 
@@ -392,6 +392,6 @@ Yu, Q. et al. (2025). DAPO: An Open-Source LLM Reinforcement Learning System. ar
 ---
 
 > **Note**: This is Paper 1 of 3 in the Reflexive Intelligence series.
-> - **Paper 1** (this paper): Theoretical framework — arXiv
+> - **Paper 1** (this paper): Theoretical framework — [Zenodo](https://zenodo.org/records/19557261)
 > - **Paper 2**: ReflexBench — benchmark and empirical results — ICAIF 2026
 > - **Paper 3**: Ouroboros-Lite — simplified community implementation — NeurIPS Workshop 2026
