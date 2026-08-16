@@ -1,19 +1,25 @@
 # Reflexive Intelligence: Decision-Making in Observer-Participant Environments
 
-**Author:** Mian Zhang | Independent Researcher  
-**Date:** April 12, 2026  
-**DOI:** [10.5281/zenodo.19557261](https://zenodo.org/records/19557261)  
-**Status:** Published (Zenodo Open Access)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](LICENSE)
+
+**Author:** Mian Zhang, Independent Researcher<br>
+**Date:** April 12, 2026<br>
+**DOI:** [10.5281/zenodo.19557261](https://doi.org/10.5281/zenodo.19557261)<br>
+**Status:** Published as a Zenodo open-access research record
 
 ## Abstract
 
-We introduce **Reflexive Intelligence** — the capacity for AI systems to make decisions while accounting for their own causal impact on the environment. Current AI excels in observer-invariant settings (games, math, protein folding) but fails in observer-participant environments where the agent's actions alter the system being modeled (financial markets, policy, recommendation). We formalize this distinction, propose a neuroscience-motivated cognitive architecture using multi-reward GRPO, and provide preliminary evidence that a 3B-parameter model trained with this framework exhibits reflexive reasoning absent from generic models 600× larger.
+Reflexive intelligence is the capacity of an AI system to reason about its own causal impact in an environment that changes in response to the system's decisions. The paper distinguishes observer-invariant settings from observer-participant settings, presents a neuroscience-motivated architecture, and reports a preliminary comparison involving a trained 3B-parameter model and larger generic models.
+
+The comparison is evidence under the paper's stated evaluation conditions. It is not a claim of general superiority over all larger models, a production validation, or proof that parameter count is irrelevant.
 
 ## Files
 
-- `paper1_reflexive_intelligence.pdf` — Full paper (PDF)
-- `paper1_reflexive_intelligence.tex` — LaTeX source
-- `paper1_reflexive_intelligence.md` — Markdown source
+- `paper1_reflexive_intelligence.pdf`: paper PDF.
+- `paper1_reflexive_intelligence.tex`: LaTeX source.
+- `paper1_reflexive_intelligence.md`: Markdown source.
+- `CITATION.cff`: machine-readable citation.
+- `CLAIM_BOUNDARY.md`: interpretation limits.
 
 ## Citation
 
@@ -27,6 +33,12 @@ We introduce **Reflexive Intelligence** — the capacity for AI systems to make 
 }
 ```
 
+## Community
+
+- Open research community: https://mianzhang.org/community/
+- Paper index: https://mianzhang.org/papers/
+- GitHub Discussions: https://github.com/mmjbds/mianzhang.org/discussions
+
 ## License
 
-CC BY-NC-SA 4.0
+Author-created paper source and included paper files are licensed under CC BY-NC-SA 4.0 unless a file states otherwise. Third-party style, marks, and incorporated materials retain their original terms.

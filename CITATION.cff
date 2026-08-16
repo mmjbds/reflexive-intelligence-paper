@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the DOI record when using this work."
+title: "Reflexive Intelligence: Decision-Making in Observer-Participant Environments"
+type: article
+authors:
+  - family-names: Zhang
+    given-names: Mian
+doi: 10.5281/zenodo.19557261
+date-released: 2026-04-12
+url: "https://doi.org/10.5281/zenodo.19557261"
