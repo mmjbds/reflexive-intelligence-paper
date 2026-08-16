@@ -1,5 +1,6 @@
 # Reflexive Intelligence: Decision-Making in Observer-Participant Environments
 
+[![public-ci](https://github.com/mmjbds/reflexive-intelligence-paper/actions/workflows/public-ci.yml/badge.svg)](https://github.com/mmjbds/reflexive-intelligence-paper/actions/workflows/public-ci.yml)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](LICENSE)
 
 **Author:** Mian Zhang, Independent Researcher<br>
@@ -38,6 +39,10 @@ The comparison is evidence under the paper's stated evaluation conditions. It is
 - Open research community: https://mianzhang.org/community/
 - Paper index: https://mianzhang.org/papers/
 - GitHub Discussions: https://github.com/mmjbds/mianzhang.org/discussions
+- Contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)
+- Private security route: [SECURITY.md](SECURITY.md)
+
+Public CI compiles the LaTeX source and verifies [`CHECKSUMS.sha256`](CHECKSUMS.sha256). Build success establishes source integrity for that commit; it does not independently validate the paper's evidence or conclusions.
 
 ## License
 

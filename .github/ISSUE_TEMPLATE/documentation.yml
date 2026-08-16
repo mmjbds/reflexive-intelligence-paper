@@ -1,0 +1,25 @@
+name: Paper correction
+description: Report a build, citation, equation, wording, or evidence-boundary problem.
+title: "[Paper]: "
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Section, equation, table, page, or source line.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and evidence
+      description: State the problem, why it matters, and the supporting source or reproduction.
+    validations:
+      required: true
+  - type: checkboxes
+    id: public
+    attributes:
+      label: Public-safe report
+      options:
+        - label: This report contains no private draft, restricted review material, credential, customer data, or unpublished research.
+          required: true
